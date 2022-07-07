@@ -16,7 +16,7 @@ app.use(express.json())
 const tarefasRoutes = require('./routes/tarefas')
 app.use('/tarefas', tarefasRoutes)
 
-// connectar ao MongoDB
+// connectar ao Banco de dados MongoDB
 mongoose
   .connect(process.env.BASE_URL)
   .then(() => {
