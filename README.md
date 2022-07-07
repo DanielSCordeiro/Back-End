@@ -6,8 +6,6 @@ Ao clonar o projeto para sua máquina, rode o npm ou yarn para instalar as depen
 
 ```bash
 npm install
-# ou
-yarn add
 ```
 
 ## Rodando o projeto
@@ -15,8 +13,6 @@ yarn add
 Inicie o projeto com yarn start e certifique que ele estará sendo executado na porta 3001
 
 ```bash
-npm start
-# ou
 yarn start
 ```
 
