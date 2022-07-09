@@ -9,8 +9,8 @@ npm install
 ```
 
 ## Rodando o projeto
-
-Inicie o projeto com yarn start e certifique que ele estará sendo executado na porta 3001
+- Crie o arquivo .env com a variável do banco de dados. (fornecida via e-mail)
+- Inicie o projeto com yarn start e certifique que ele estará sendo executado na porta 3001
 
 ```bash
 yarn start
